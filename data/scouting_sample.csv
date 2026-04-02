@@ -1,0 +1,6 @@
+field_id,weed_density,weed_species_count,crop_stage
+F-101,15,1,vegetative
+F-101,35,2,vegetative
+F-204,62,4,emergence
+F-204,55,3,emergence
+F-315,22,1,reproductive
